@@ -5,10 +5,10 @@
 #include <DallasTemperature.h>
 
 // ====== Wi-Fi creds ======
-const char* ssid = "SAMI-PC";
-const char* password = "SAMI-PFE";
+const char* ssid = "Wife Name";
+const char* password = "Wifi Password";
 // ====== Backend ======
-const char* serverBase = "http://192.168.137.1:18000";
+const char* serverBase = "backend API";
 
 
 #define TRIG 5
